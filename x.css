@@ -1,0 +1,18 @@
+
+
+.one{
+		 background-color:black;
+		 color: red;
+		 font-size: 30px;	
+		 width: 300px;
+		 height: 500px;
+		 margin-top: 10px;
+	}
+
+.two{
+		background-color: yellow;
+		width: 300px;
+		height: 500px;
+		margin-left:300px;
+		margin-top: 10px;  
+}
